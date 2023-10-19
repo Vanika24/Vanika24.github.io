@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sayorn Chin, Ph.D."
+title                    : "Vanika Sok"
 title_separator          : "-"
-name                     : &name "Sayorn Chin"
-description              : &description "Assistant Professor and Data Science Fellow Affiliate"
-url                      : https://schinlfc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Vanika Sok"
+description              : &description "Aspiring Data Scientist"
+url                      : https://Vanika24.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "schinlfc/schinlfc.github.io"
+repository               : "Vanika24/Vanika24.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : ChinSayorn
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -84,14 +84,14 @@ analytics:
 author:
   name             : "Sayorn Chin"
   avatar           : "profile.jpeg"
-  bio              : "Assistant Professor of Economics at Lafayette College"
+  bio              : "Aspiring Data Scientist"
   view             : 
   location         : "Easton, PA"
   employer         :
   pubmed           :
   orcid            :
-  googlescholar    : "https://scholar.google.com/citations?user=Yx02X_IAAAAJ&hl=en"
-  email            : "chins@lafayette.edu"
+  googlescholar    :
+  email            : "sokv@lafayette.edu"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -100,20 +100,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "schinlfc"
+  github           : "Vanika24"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "sayorn-chin"
+  linkedin         : "vanika-sok-2096b4207"
   pinterest        :
   soundcloud       :
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "ChinSayorn"
+  twitter          :
   vine             :
   weibo            :
   xing             :
