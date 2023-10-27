@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Vibes
+- Font Author: Copyright 2019 The Vibes Project Authors (https://github.com/bluemix/vibes-typeface)
+- Font Source: http://fonts.gstatic.com/s/vibes/v14/QdVYSTsmIB6tmbd3HpbsuBlh.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
