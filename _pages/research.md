@@ -5,6 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 
+### Honors Thesis Student — Lafayette College Dept. of Economics
+*Easton, PA
+Primary Advisor: Professor David Stifel
+
 ### University of Utah — Researcher, Dept. of Economics  
 *Salt Lake City, UT | May 2025 – Present*  
 Led quantitative research cleaning, merging, and analyzing 15+ years of panel data with Python, R, and Stata. Applied econometric techniques (OLS, fixed effects, instrumental variables) to study public library use and childcare affordability during economic downturns. Developed a strategic framework to guide resource allocation in recessions and co-authored two papers in progress that integrate evidence from the Great Recession and COVID-19.
