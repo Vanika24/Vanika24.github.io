@@ -8,6 +8,7 @@ author_profile: true
 ### Honors Thesis Student — Lafayette College Dept. of Economics
 *Easton, PA*
 Primary Advisor: Professor David Stifel
+(Work in progress)
 
 ### University of Utah — Researcher, Dept. of Economics  
 *Salt Lake City, UT | May 2025 – Present*  
