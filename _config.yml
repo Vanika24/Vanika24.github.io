@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Vanika Sok"
 title_separator          : "-"
 name                     : &name "Vanika Sok"
-description              : &description "Looking for Economics Consulting job for Summer 2026, intend to pursue PhD in Economics"
+description              : &description "Actively seeking Summer 2026 economics consulting roles | PhD-bound in Economics"
 url                      : https://Vanika24.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Vanika24/Vanika24.github.io"
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "light" (default), "dark"
+    colorscheme          : #"light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "master" # "master", "gh-pages"
@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Vanika Sok"
   avatar           : "profile.jpeg"
-  bio              : "Aspiring Data Scientist"
+  bio              : "Actively seeking Summer 2026 economics consulting roles | PhD-bound in Economics"
   view             : 
   location         : "Easton, PA"
   employer         :
