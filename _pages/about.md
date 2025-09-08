@@ -15,5 +15,5 @@ Outside of research, I am a teaching assistant for Econometrics. I am also mento
 
 In my free time I enjoy backpacking, hiking, and running in nature. I also like playing the piano and taking sunset photos.
 
-Looking ahead, I’m excited to pursue a career in economics consulting before continuing on to a PhD in Economics, where I can bring together data-driven analysis, policy relevance, and real-world application to tackle complex economic questions.
+I am looking for jobs in consulting before potentially pursuing a PhD in Economics, where I can bring together data-driven analysis, policy relevance, and real-world application to tackle complex economic questions and help businesses and organizations make better-informed decisions.
 
