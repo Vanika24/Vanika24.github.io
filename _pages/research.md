@@ -26,6 +26,7 @@ author_profile: true
     <h3>Unemployment and Public Library Usage in the United States: Evidence from Before and During the COVID-19 Pandemic</h3>
     <div class="research-meta">
       University of Utah — Researcher, Dept. of Economics · Salt Lake City, UT · May 2025 – Present
+      Author: Vanika Sok, Dr. Sarah Small, Dr. Rachel Ernst
     </div>
     <div class="research-abstract">
       <strong>Abstract.</strong> Scholars and policymakers have long argued that public libraries offer essential community
