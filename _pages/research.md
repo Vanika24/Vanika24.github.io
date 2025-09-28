@@ -23,7 +23,7 @@ author_profile: true
 <div class="research-section">
 
   <div class="research-item" id="wip-libraries-childcare">
-    <h3>Public Libraries & Childcare Affordability During Downturns</h3>
+    <h3>Unemployment and Public Library Usage in the United States: Evidence from Before and During the COVID-19 Pandemic</h3>
     <div class="research-meta">
       University of Utah — Researcher, Dept. of Economics · Salt Lake City, UT · May 2025 – Present
     </div>
