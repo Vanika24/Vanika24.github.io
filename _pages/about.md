@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I’m a senior at [Lafayette College](https://www.lafayette.edu/) studying Mathematics and Economics (Honors in Economics). My interests lie at the intersection of economics, data, and policy, especially how evidence can guide better decisions for businesses, communities, and institutions.
+I’m double majoring in Mathematics and Economics at [Lafayette College](https://www.lafayette.edu/) (Honors in Economics). I will be graduating in May 2026. During my undergraduate journey at Lafayette College, I have worked on policy-relevant research using advanced econometric tools and large-scale datasets such as the National Longitudinal Surveys (NLSY97) and World Bank household surveys. As a research assistant, I have collaborated with faculty on projects ranging from crop diversification and household welfare in Nigeria to econometric modeling with Python, R, and Stata. In Summer 2025, I was selected as a Summer Program for Undergraduate Research (SPUR) intern. SPUR is a nationally competitive opportunity that provides undergraduate students with an intensive 10-week summer research experience under the mentorship of a University of Utah faculty member. 
 
-Over the past few years, I’ve worked on projects ranging from analyzing how public libraries respond to economic downturns, to quantifying the “price of conscience” in labor markets, to studying how crop diversification affects household welfare in Nigeria. These experiences taught me how to work with complex datasets, design rigorous econometric models, and most importantly translate technical results into insights that matter for people’s lives and for strategic decision-making.
+My research interests lies in applied microeconomics, econometrics, development economics, policy, behavioral and industrial economics.
 
 Outside of research, I am a teaching assistant for Econometrics. I am also mentoring high school students in Madagascar through the Lafayette Initiative for Malagasy Education (LIME), served as Director of Finance for Cambodian Student Association in the United States, and organized Cambodia’s first Higher Education Fair. These leadership experiences shaped my passion for mentorship, collaboration, and building opportunities for others.
 
-In my free time I enjoy backpacking, hiking, and running in nature. I also like playing the piano and taking sunset photos.
+Besides acadmic, I enjoy playing piano, backpacking, hiking, and running in nature. 
 
-I am looking for jobs in consulting before potentially pursuing a PhD in Economics, where I can bring together data-driven analysis, policy relevance, and real-world application to tackle complex economic questions and help businesses and organizations make better-informed decisions.
+My goal is to pursue a PhD in Economics. I hope, in the future, I can bring together data-driven analysis, policy relevance, and real-world application to tackle complex economic questions and help businesses and organizations make better-informed decisions.
 
