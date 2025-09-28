@@ -42,7 +42,7 @@ author_profile: true
 
     <!-- Poster embedded inline -->
     <iframe
-      src="/files/pdf/sok_resume-3.pdf"
+      src="/files/pdf/Sok_Poster_updated.pdf"
       width="100%"
       height="500"
       frameborder="0"
