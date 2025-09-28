@@ -22,11 +22,12 @@ author_profile: true
 
 <div class="research-section">
 
+  <!-- First Paper -->
   <div class="research-item" id="wip-libraries-childcare">
     <h3>Unemployment and Public Library Usage in the United States: Evidence from Before and During the COVID-19 Pandemic</h3>
     <div class="research-meta">
-      University of Utah — Researcher, Dept. of Economics · Salt Lake City, UT · May 2025 – Present
-      Author: Vanika Sok, Dr. Sarah Small, Dr. Rachel Ernst
+      University of Utah — Researcher, Dept. of Economics · Salt Lake City, UT · May 2025 – Present<br>
+      Authors: Vanika Sok, Sarah F. Small, Rachel Ernst
     </div>
     <div class="research-abstract">
       <strong>Abstract.</strong> Scholars and policymakers have long argued that public libraries offer essential community
@@ -52,11 +53,34 @@ author_profile: true
       title="Poster — Public Libraries & Childcare">
     </iframe>
     <div class="pdf-caption">
-      Poster (embedded above). If it doesn’t load, <a href="/files/pdf/sok_resume-3.pdf">open it directly</a>.
+      Poster (embedded above). If it doesn’t load, <a href="/files/pdf/Sok_Poster_updated.pdf">open it directly</a>.
+    </div>
+  </div>
+
+  <!-- Second Paper -->
+  <div class="research-item" id="wip-care-gaps">
+    <h3>Do Public Libraries Fill Care Gaps? Regional Analyses of Children’s Library Programming, Childcare Markets, and Parenthood</h3>
+    <div class="research-meta">
+      University of Utah — Dept. of Economics & Marriott Library · 2008–2022 Data Analysis<br>
+      Authors: Sarah F. Small (University of Utah), Vanika Sok (Lafayette College), Rachel Ernst (University of Utah)
+    </div>
+    <div class="research-abstract">
+      <strong>Abstract.</strong> Public libraries are regularly relied upon for community resources beyond just books.
+      In this paper, we ask: do public libraries help fill care gaps? Using data from the United States Public
+      Library Surveys and the National Database on Childcare Prices, we construct a panel of public libraries
+      from 2008 to 2022 matched with corresponding demographic and childcare pricing information in their
+      respective counties. Using these data, we estimate how family demographics and care costs relate to
+      attendance in children’s programming and circulation of children’s books in public libraries. Ultimately,
+      we find that in counties with more single mothers, higher home-based childcare prices, and higher rates
+      of family-level poverty, libraries have higher attendance in young children’s programming activities and
+      greater children’s book circulation. We test the robustness of our results using several instrumental
+      variable analyses and falsification tests. Ultimately, we suggest that libraries serve as important public
+      spaces of social reproduction.
     </div>
   </div>
 
 </div>
+
 
 
 ---
