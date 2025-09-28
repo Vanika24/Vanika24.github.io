@@ -28,22 +28,35 @@ author_profile: true
       University of Utah — Researcher, Dept. of Economics · Salt Lake City, UT · May 2025 – Present
     </div>
     <div class="research-abstract">
-      <strong>Abstract.</strong> We study how local public library access interacts with childcare costs across business cycles,
-      using 15+ years of panel data. Methods include OLS, fixed effects, and instrumental variables.
-      We develop a framework to guide resource allocation in recessions and are drafting two papers that
-      integrate evidence from the Great Recession and COVID-19.
+      <strong>Abstract.</strong> Scholars and policymakers have long argued that public libraries offer essential community
+      resources during times of economic strife. However, to our knowledge, most of this evidence has been
+      anecdotal or correlational. Using Public Library Survey, Bureau of Labor Statistics, and Business Dynamic
+      Statistics datasets, we present causal estimates of the effect of regional unemployment on local public
+      library usage. From OLS and instrumental variable models, we find that from 2008 to 2019, increased
+      rates of unemployment led to increased visits, circulation, and computer usage at local libraries. However,
+      during the COVID-19 pandemic, many of these relationships reversed, with COVID-related unemployment
+      causing a reduction in visits, but not necessarily use. Reflecting on various dimensions of community need
+      and library resources, we contextualize our results in the broader literature on public libraries as valuable
+      economic resources.
     </div>
 
-    <!-- Poster (or paper) embedded inline -->
+    <!-- Poster embedded inline -->
     <iframe
-      class="pdf-embed"
-      src="{{ '/assets/posters/library_childcare_poster.pdf' | relative_url }}"
-      title="Poster — Libraries & Childcare">
+      src="/files/pdf/sok_resume-3.pdf"
+      width="100%"
+      height="500"
+      frameborder="0"
+      marginwidth="0"
+      marginheight="0"
+      title="Poster — Public Libraries & Childcare">
     </iframe>
-    <div class="pdf-caption">Poster (PDF is embedded above). If it doesn’t load, <a href="{{ '/assets/posters/library_childcare_poster.pdf' | relative_url }}">open it directly</a>.</div>
+    <div class="pdf-caption">
+      Poster (embedded above). If it doesn’t load, <a href="/files/pdf/sok_resume-3.pdf">open it directly</a>.
+    </div>
   </div>
 
 </div>
+
 
 ---
 
