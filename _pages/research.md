@@ -101,21 +101,27 @@ author_profile: true
 
   <!-- Econometrics RA -->
   <div class="research-item" id="ra-econometrics-2024">
-    <h3>Econometrics Research Assistant</h3>
+    <h3>The Compensation of Conscience</h3>
     <div class="research-meta">
-      Lafayette College — Dept. of Economics (with Dr. Chin) · Easton, PA · May 2024 – May 2025<br>
-      Author: Vanika Sok
+       Research Assistant Lafayette College — Department of Economics (with Professor Sayorn Chin) · Easton, PA · May 2024 – May 2025<br>
     </div>
     <div class="research-abstract">
-      <strong>Abstract.</strong> Supported an econometrics project involving data inspection, wrangling, visualization, 
-      and regression in Python, R, and Stata. Produced literature reviews and statistical summaries. 
-      Identified issues in prior analyses and proposed methodological improvements that shaped 
-      a forthcoming manuscript.
+      <strong>Abstract.</strong> Markets are often praised for their efficiency, but they can also incentivize
+individuals to act against their moral convictions. This study quantifies the
+"price of conscience" in labor markets, investigating whether jobs
+requiring moral compromise offer higher wages. Using data from the
+National Longitudinal Survey of Youth 1997 (NLSY97) and Occupational
+Information Network (O*NET), we conduct a longitudinal fixed-effects
+analysis to examine how conscience-related job characteristics influence
+wages. Our findings suggest that occupations demanding greater moral
+compromise provide higher wages, and this premium increases with age
+and education. These results extend prior experimental evidence on morals
+and markets into real-world labor market dynamics.
     </div>
 
     <!-- PDF embedded inline -->
     <iframe
-      src="/files/pdf/econometrics_ra_methods_notes.pdf"
+      src="/files/pdf/spring_poster_v5.pdf"
       width="100%"
       height="500"
       frameborder="0"
@@ -125,7 +131,7 @@ author_profile: true
     </iframe>
     <div class="pdf-caption">
       Methods notes (embedded above). If it doesn’t load, 
-      <a href="/files/pdf/econometrics_ra_methods_notes.pdf">open directly</a>.
+      <a href="/files/pdf/spring_poster_v5.pdf">open directly</a>.
     </div>
   </div>
 
@@ -133,28 +139,12 @@ author_profile: true
   <div class="research-item" id="ra-nigeria-2023">
     <h3>Crop Diversification and Household Welfare in Nigeria</h3>
     <div class="research-meta">
-      Lafayette College — Dept. of Economics (with Prof. David Stifel) · Easton, PA · May 2023 – Aug 2023<br>
-      Author: Vanika Sok
+      Research Assistant Lafayette College — Department of Economics (with Professor David Stifel) · Easton, PA · May 2023 – Aug 2023<br>
     </div>
     <div class="research-abstract">
-      <strong>Abstract.</strong> We examine how agricultural diversification correlates with household welfare 
-      using World Bank LSMS-ISA panel data. Employing fixed-effects models and data visualization, 
-      we quantify resilience channels and provide insights to inform development policy.
-    </div>
-
-    <!-- Poster embedded inline -->
-    <iframe
-      src="/files/pdf/nigeria_crop_diversification_poster.pdf"
-      width="100%"
-      height="500"
-      frameborder="0"
-      marginwidth="0"
-      marginheight="0"
-      title="Poster — Nigeria Crop Diversification">
-    </iframe>
-    <div class="pdf-caption">
-      Poster (embedded above). If it doesn’t load, 
-      <a href="/files/pdf/nigeria_crop_diversification_poster.pdf">open directly</a>.
+      <strong></strong>Analyzed how crop diversification affects household welfare in Nigeria, leveraging World Bank panel survey data. Applied econometric models, data wrangling, and visualization in Excel and Stata to quantify the
+relationship between agricultural diversity and economic well-being. Produced insights on how
+diversification strategies can strengthen household resilience and inform development policy.
     </div>
 
 ---
