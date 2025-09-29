@@ -106,6 +106,11 @@ author_profile: true
        Research Assistant Lafayette College — Department of Economics (with Professor Sayorn Chin) · Easton, PA · May 2024 – May 2025<br>
     </div>
     <div class="research-abstract">
+      Researched the “price of conscience” in labor markets by integrating longitudinal data from the The National
+Longitudinal Survey of Youth (NLSY97) with occupational characteristics from ONET to quantify how jobs
+requiring moral compromise are compensated. Applied fixed-effects econometric models to uncover a
+significant wage premium for occupations involving ethical tradeoffs, with effects increasing by age and
+education. Presented findings at Lafayette College’s Poster Symposium.
       <strong>Abstract.</strong> Markets are often praised for their efficiency, but they can also incentivize
 individuals to act against their moral convictions. This study quantifies the
 "price of conscience" in labor markets, investigating whether jobs
@@ -119,11 +124,7 @@ and education. These results extend prior experimental evidence on morals
 and markets into real-world labor market dynamics.
     </div>
     
-Researched the “price of conscience” in labor markets by integrating longitudinal data from the The National
-Longitudinal Survey of Youth (NLSY97) with occupational characteristics from ONET to quantify how jobs
-requiring moral compromise are compensated. Applied fixed-effects econometric models to uncover a
-significant wage premium for occupations involving ethical tradeoffs, with effects increasing by age and
-education. Presented findings at Lafayette College’s Poster Symposium.
+
     <!-- PDF embedded inline -->
     <iframe
       src="/files/pdf/spring_poster_v5.pdf"
@@ -152,6 +153,5 @@ relationship between agricultural diversity and economic well-being. Produced in
 diversification strategies can strengthen household resilience and inform development policy.
     </div>
 
----
 
 
