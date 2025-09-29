@@ -26,7 +26,7 @@ author_profile: true
     <h3>Does woman empowerment improve household welfare?</h3>
     <div class="research-meta">
       Lafayette College — Department of Economics<br>
-      Authors: Vanika Sok
+      Author: Vanika Sok
     </div>
     <div class="research-abstract">
       <strong>Abstract.</strong> Available soon.
