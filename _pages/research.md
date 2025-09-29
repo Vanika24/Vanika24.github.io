@@ -21,13 +21,23 @@ author_profile: true
 ## Work in Progress
 
 <div class="research-section">
-
+<!-- thesis Paper -->
+  <div class="research-item" id="wip-care-gaps">
+    <h3>Does woman empowerment improve household welfare?</h3>
+    <div class="research-meta">
+      Lafayette College — Department of Economics<br>
+      Authors: Vanika Sok
+    </div>
+    <div class="research-abstract">
+      <strong>Abstract.</strong> Available soon.
+    </div>
+  </div>
   <!-- First Paper -->
   <div class="research-item" id="wip-libraries-childcare">
     <h3>Unemployment and Public Library Usage in the United States: Evidence from Before and During the COVID-19 Pandemic</h3>
     <div class="research-meta">
       University of Utah — Researcher, Dept. of Economics · Salt Lake City, UT · May 2025 – Present<br>
-      Authors: Vanika Sok, Sarah F. Small, Rachel Ernst
+      Authors: Vanika Sok (Lafayette College), Dr. Sarah F. Small (University of Utah), Dr. Rachel Ernst (University of Utah)
     </div>
     <div class="research-abstract">
       <strong>Abstract.</strong> Scholars and policymakers have long argued that public libraries offer essential community
@@ -61,8 +71,8 @@ author_profile: true
   <div class="research-item" id="wip-care-gaps">
     <h3>Do Public Libraries Fill Care Gaps? Regional Analyses of Children’s Library Programming, Childcare Markets, and Parenthood</h3>
     <div class="research-meta">
-      University of Utah — Dept. of Economics & Marriott Library · 2008–2022 Data Analysis<br>
-      Authors: Sarah F. Small (University of Utah), Vanika Sok (Lafayette College), Rachel Ernst (University of Utah)
+      University of Utah — Dept. of Economics<br>
+      Authors: Sarah F. Small, Vanika Sok, Rachel Ernst
     </div>
     <div class="research-abstract">
       <strong>Abstract.</strong> Public libraries are regularly relied upon for community resources beyond just books.
@@ -89,79 +99,64 @@ author_profile: true
 
 <div class="research-section">
 
+  <!-- Econometrics RA -->
   <div class="research-item" id="ra-econometrics-2024">
     <h3>Econometrics Research Assistant</h3>
     <div class="research-meta">
-      Lafayette College, Dept. of Economics (with Dr. Chin) · Easton, PA · May 2024 – May 2025
+      Lafayette College — Dept. of Economics (with Dr. Chin) · Easton, PA · May 2024 – May 2025<br>
+      Author: Vanika Sok
     </div>
     <div class="research-abstract">
-      <strong>Abstract.</strong> Supported an econometrics project: data inspection, wrangling, visualization, and regression in
-      Python, R, and Stata; produced literature reviews and summary statistics. Identified issues in prior
-      analyses and proposed improvements shaping a forthcoming manuscript.
+      <strong>Abstract.</strong> Supported an econometrics project involving data inspection, wrangling, visualization, 
+      and regression in Python, R, and Stata. Produced literature reviews and statistical summaries. 
+      Identified issues in prior analyses and proposed methodological improvements that shaped 
+      a forthcoming manuscript.
     </div>
 
-    <!-- Optional: attach a working draft or RA summary as a PDF -->
+    <!-- PDF embedded inline -->
     <iframe
-      class="pdf-embed"
-      src="{{ '/assets/papers/econometrics_ra_methods_notes.pdf' | relative_url }}"
-      title="RA Methods Notes">
+      src="/files/pdf/econometrics_ra_methods_notes.pdf"
+      width="100%"
+      height="500"
+      frameborder="0"
+      marginwidth="0"
+      marginheight="0"
+      title="Econometrics RA — Methods Notes">
     </iframe>
-    <div class="pdf-caption">Methods/notes (embedded). <a href="{{ '/assets/papers/econometrics_ra_methods_notes.pdf' | relative_url }}">Open directly</a>.</div>
+    <div class="pdf-caption">
+      Methods notes (embedded above). If it doesn’t load, 
+      <a href="/files/pdf/econometrics_ra_methods_notes.pdf">open directly</a>.
+    </div>
   </div>
 
+  <!-- Nigeria RA -->
   <div class="research-item" id="ra-nigeria-2023">
     <h3>Crop Diversification and Household Welfare in Nigeria</h3>
     <div class="research-meta">
-      Lafayette College, Dept. of Economics (with Prof. David Stifel) · Easton, PA · May 2023 – Aug 2023
+      Lafayette College — Dept. of Economics (with Prof. David Stifel) · Easton, PA · May 2023 – Aug 2023<br>
+      Author: Vanika Sok
     </div>
     <div class="research-abstract">
-      <strong>Abstract.</strong> We examine how agricultural diversification correlates with household welfare using
-      World Bank LSMS-ISA panel data. We run fixed-effects models and develop visualizations to quantify
-      resilience channels, informing development policy.
+      <strong>Abstract.</strong> We examine how agricultural diversification correlates with household welfare 
+      using World Bank LSMS-ISA panel data. Employing fixed-effects models and data visualization, 
+      we quantify resilience channels and provide insights to inform development policy.
     </div>
 
-    <!-- Embed poster and/or paper; add both if you have them -->
+    <!-- Poster embedded inline -->
     <iframe
-      class="pdf-embed"
-      src="{{ '/assets/posters/nigeria_crop_diversification_poster.pdf' | relative_url }}"
-      title="Nigeria Crop Diversification — Poster">
+      src="/files/pdf/nigeria_crop_diversification_poster.pdf"
+      width="100%"
+      height="500"
+      frameborder="0"
+      marginwidth="0"
+      marginheight="0"
+      title="Poster — Nigeria Crop Diversification">
     </iframe>
-    <div class="pdf-caption">Poster (embedded). <a href="{{ '/assets/posters/nigeria_crop_diversification_poster.pdf' | relative_url }}">Open directly</a>.</div>
-
-    <iframe
-      class="pdf-embed"
-      src="{{ '/assets/papers/nigeria_crop_diversification.pdf' | relative_url }}"
-      title="Nigeria Crop Diversification — Paper">
-    </iframe>
-    <div class="pdf-caption">Paper (embedded). <a href="{{ '/assets/papers/nigeria_crop_diversification.pdf' | relative_url }}">Open directly</a>.</div>
-  </div>
-
-</div>
+    <div class="pdf-caption">
+      Poster (embedded above). If it doesn’t load, 
+      <a href="/files/pdf/nigeria_crop_diversification_poster.pdf">open directly</a>.
+    </div>
 
 ---
 
-## Publications
-
-<div class="research-section">
-
-  <!-- Example published piece -->
-  <div class="research-item" id="pub-example">
-    <h3>Title of Published Paper (Example)</h3>
-    <div class="research-meta">
-      Venue / Year
-    </div>
-    <div class="research-abstract">
-      <strong>Abstract.</strong> Short abstract of the paper. Summarize motivation, data, method, and 1–2 key takeaways.
-    </div>
-
-    <!-- Embed the published PDF -->
-    <iframe
-      class="pdf-embed"
-      src="{{ '/assets/papers/paper_example.pdf' | relative_url }}"
-      title="Published Paper — Example">
-    </iframe>
-    <div class="pdf-caption">Paper (embedded). <a href="{{ '/assets/papers/paper_example.pdf' | relative_url }}">Open directly</a>.</div>
-  </div>
-
-</div>
 
