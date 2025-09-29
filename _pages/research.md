@@ -111,6 +111,8 @@ Longitudinal Survey of Youth (NLSY97) with occupational characteristics from ONE
 requiring moral compromise are compensated. Applied fixed-effects econometric models to uncover a
 significant wage premium for occupations involving ethical tradeoffs, with effects increasing by age and
 education. Presented findings at Lafayette College’s Poster Symposium.
+       </div>
+     </div>
       <strong>Abstract.</strong> Markets are often praised for their efficiency, but they can also incentivize
 individuals to act against their moral convictions. This study quantifies the
 "price of conscience" in labor markets, investigating whether jobs
