@@ -124,9 +124,6 @@ wages. Our findings suggest that occupations demanding greater moral
 compromise provide higher wages, and this premium increases with age
 and education. These results extend prior experimental evidence on morals
 and markets into real-world labor market dynamics.
-    </div>
-    
-
     <!-- PDF embedded inline -->
     <iframe
       src="/files/pdf/spring_poster_v5.pdf"
