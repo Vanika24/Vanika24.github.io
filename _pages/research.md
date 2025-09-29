@@ -135,7 +135,7 @@ and markets into real-world labor market dynamics.
       title="Econometrics RA — Methods Notes">
     </iframe>
     <div class="pdf-caption">
-      Methods notes (embedded above). If it doesn’t load, 
+      Poster (embedded above). If it doesn’t load, 
       <a href="/files/pdf/spring_poster_v5.pdf">open directly</a>.
     </div>
   </div>
