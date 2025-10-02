@@ -32,6 +32,20 @@ author_profile: true
       <strong>Abstract.</strong>  Women’s empowerment in developing countries remains understudied, particularly its impact on household welfare. This study examines how women’s land ownership and education, used as proxies intra-household bargaining power, affect household welfare indicators such as expenditures, human capital, and child health. Using Demographic and Health Surveys (DHS) data from Cambodia spanning 1998 to 2022, this study analyzes how these empowerment measures relate to household and child outcomes, particularly anthropometric indicators. The results contribute to the literature on gender and development by providing new evidence from Cambodia and may inform policies targeting household welfare, nutrition, and health.
     </div>
   </div>
+
+<!-- pollution and crime Paper -->
+  <div class="research-item" id="wip-care-gaps">
+    <h3>Further Evidence on Pollution, Crime, and
+Anti-Social Behavior</h3>
+    <div class="research-meta">
+      Lafayette College — Department of Economics<br>
+      Author: Sayorn Chin, Salvador Lurbé, and Vanika Sok
+    </div>
+    <div class="research-abstract">
+      <strong>Abstract.</strong>  Recent literature  has  identified  an association between  short-term pollution exposure and crime in the US and in the United Kingdom (UK). In this paper, we expand our understanding of the effects of pollution on crime by looking at the association between pollution, specifically at Particulate Matter (PM) and Ozone (O3), and counts of aggregated crime types and Anti-social Behaviour (ASB) in the UK. We primarily focus our analysis on ASB, as the literature has identified costs associated with them in the UK, but has overlooked its association with pollution. Using a fixed effects model, we found an association between pollution and some crime types, especially those that are economically motivated. We find weaker evidence of an association between pollution and offenses associated with aggressive and violent behavior (including ASB), and we discuss potential mechanisms in the context of the rational choice crime model. We conclude that one potential mechanism could be a decrease in the utility of the non-punishable alternative activity, or a decrease of the offender's value of the future costs associated with being caught.
+    </div>
+  </div>
+  
   <!-- First Paper -->
   <div class="research-item" id="wip-libraries-childcare">
     <h3>Unemployment and Public Library Usage in the United States: Evidence from Before and During the COVID-19 Pandemic</h3>
