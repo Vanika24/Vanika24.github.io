@@ -23,13 +23,13 @@ author_profile: true
 <div class="research-section">
 <!-- thesis Paper -->
   <div class="research-item" id="wip-care-gaps">
-    <h3>Does woman empowerment improve household welfare?</h3>
+    <h3>Does women's empowerment improve household welfare?: New evidence from Cambodia</h3>
     <div class="research-meta">
       Lafayette College — Department of Economics<br>
       Author: Vanika Sok
     </div>
     <div class="research-abstract">
-      <strong>Abstract.</strong>  Women’s empowerment in developing countries remains understudied, particularly its impact on household welfare. This study examines how women’s land ownership and education, used as proxies intra-household bargaining power, affect household welfare indicators such as expenditures, human capital, and child health. Using Demographic and Health Surveys (DHS) data from Cambodia spanning 1998 to 2022, this study analyzes how these empowerment measures relate to household and child outcomes, particularly anthropometric indicators. The results contribute to the literature on gender and development by providing new evidence from Cambodia and may inform policies targeting household welfare, nutrition, and health.
+      <strong>Abstract.</strong>  Women’s empowerment in developing countries remains understudied, particularly its impact on household welfare. This study examines how women’s land ownership and education, used as proxies for intra-household bargaining power, affect household welfare indicators such as expenditures, human capital, and child health. Using Demographic and Health Surveys (DHS) data from Cambodia spanning 1998 to 2022, I analyze how these empowerment measures relate to household and child health outcomes, particularly anthropometric indicators. I use three-way fixed effects to control for household level characteristics, regions, and time. The findings will contribute to the literature on gender and development by providing new evidence from Cambodia and offer insights for policies targeting household welfare, nutrition, and health.
     </div>
   </div>
   
