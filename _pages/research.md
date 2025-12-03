@@ -23,13 +23,13 @@ author_profile: true
 <div class="research-section">
 <!-- thesis Paper -->
   <div class="research-item" id="wip-care-gaps">
-    <h3>Does women's empowerment improve household welfare?: New evidence from Cambodia</h3>
+    <h3>Does women's empowerment improve child welfare? New evidence from Cambodia</h3>
     <div class="research-meta">
       Lafayette College — Department of Economics<br>
       Author: Vanika Sok
     </div>
     <div class="research-abstract">
-      <strong>Abstract.</strong>  Women’s empowerment in developing countries remains understudied, particularly its impact on household welfare. This study examines how women’s intra-household bargaining power, proxied by women’s land ownership and education, affect household welfare indicators such as child schooling and child health. Using Demographic and Health Survey (DHS) data from Cambodia from 1998 to 2022, I estimate how women’s empowerment affects child school enrollment status and child anthropometric health outcomes. In order to reduce the bias in the estimators of these effects, I control for household level characteristics and region and time fixed effects. The findings will contribute to the literature on gender and development by providing new evidence from Cambodia and offer insights for policies targeting household welfare, education,  and health.
+      <strong>Abstract.</strong>  Women’s empowerment in developing countries remains understudied, and in particular its impact on child welfare. I examine how women’s intra-household bargaining power – proxied by women’s land ownership, education, perception about justified wife-beating, and household decision-making – affects child welfare indicators. Using Demographic and Health Survey (DHS) data from Cambodia from 2000 to 2022, I estimate how women’s empowerment affects child school enrollment status and child anthropometric health outcomes. I also explore whether these impacts differ by the gender of the child, and potentially reduce any gender-based inequality in child welfare. In order to reduce the bias in the estimators of these effects, I control for household level characteristics and region and time fixed effects. The findings will contribute to the literature on gender and development by providing new evidence from Cambodia and offering insights for policies targeting child welfare.
     </div>
   </div>
   
