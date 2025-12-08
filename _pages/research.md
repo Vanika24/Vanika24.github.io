@@ -30,7 +30,6 @@ author_profile: true
     </div>
     <div class="research-abstract">
       <strong>Abstract.</strong>  Women’s empowerment in developing countries remains understudied, and in particular its impact on child welfare. I examine how women’s intra-household bargaining power – proxied by women’s land ownership, education, perception about justified wife-beating, and household decision-making – affects child welfare indicators. Using Demographic and Health Survey (DHS) data from Cambodia from 2000 to 2022, I estimate how women’s empowerment affects child school enrollment status and child anthropometric health outcomes. I also explore whether these impacts differ by the gender of the child, and potentially reduce any gender-based inequality in child welfare. In order to reduce the bias in the estimators of these effects, I control for household level characteristics and region and time fixed effects. The findings will contribute to the literature on gender and development by providing new evidence from Cambodia and offering insights for policies targeting child welfare.
-      Note: I successfully defended my honors thesis on December 2nd, 2025 at Simon Center for Economics, Lafayette College. It was a mid-year defense; students who pass get to advance their original research in the second half of their senior year.
     </div>
   </div>
   
