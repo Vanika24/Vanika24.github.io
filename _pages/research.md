@@ -73,7 +73,7 @@ author_profile: true
     <h3>Do Public Libraries Fill Care Gaps? Regional Analyses of Children’s Library Programming, Childcare Markets, and Parenthood</h3>
     <div class="research-meta">
       University of Utah — Dept. of Economics<br>
-      Authors: Sarah F. Small, Vanika Sok, Rachel Ernst
+      Authors: Vanika Sok, Sarah F. Small, Rachel Ernst
     </div>
     <div class="research-abstract">
       <strong>Abstract.</strong> Public libraries are regularly relied upon for community resources beyond just books.
