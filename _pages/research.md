@@ -18,6 +18,23 @@ author_profile: true
 @media (max-width: 640px) { .pdf-embed { height: 520px; } }
 </style>
 
+## Publications
+
+  <div class="research-section">
+    <div class="research-item" id="pub-cambodia">
+      <h3>Does Women's Empowerment Improve Child Welfare? New Evidence from Cambodia</h3>
+      <div class="research-meta">
+        Lafayette College — Department of Economics<br>
+        Author: Vanika Sok
+      </div>
+      <div class="research-abstract">
+        <strong>Abstract.</strong> Women’s empowerment in developing countries remains understudied, and in particular its impact on child welfare. I examine how women’s intra-household bargaining power – proxied by women’s land ownership, education, perception about justified wife-beating, and household decision-making – affects child welfare indicators. Using Demographic and Health Survey (DHS) data from Cambodia from 2005 to 2022, I estimate how women’s empowerment affects child school enrollment status, immunization rates, and child anthropometric health outcomes. I also explore whether these impacts differ by the gender of the child, and potentially reduce any gender-based inequality in child welfare. In order to reduce the bias in the estimators of these effects, I control for household level characteristics and region and time fixed effects. Across all three outcomes, the wife-beating rejection index emerges as the most consistent predictor of child welfare, outperforming land ownership, education, and decision-making participation. A one unit increase in the index is associated with a 0.070 standard deviation increase in child height-for-age z-score, a 2.9 percentage point increase in full immunization coverage, and a 1.5 percentage point increase in school enrollment probability. I hope that these findings contribute to the literature on gender and development by providing new evidence from Cambodia and offering insights for policies targeting child welfare.
+      </div>
+    </div>
+  </div>
+  
+  ---
+  
 ## Works in Progress
 
 <div class="research-section">
