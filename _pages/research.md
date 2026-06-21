@@ -37,7 +37,7 @@ author_profile: true
   <div class="research-item" id="wip-libraries-childcare">
     <h3>Unemployment and Public Libraries Usage in the United States: Evidence from Before and During COVID </h3>
     <div class="research-meta">
-      University of Utah — Researcher, Dept. of Economics · Salt Lake City, UT · May 2025 – Present<br>
+      University of Utah — Research Analyst, Dept. of Economics · Salt Lake City, UT · May 2025 – Present<br>
       Authors: Vanika Sok (Lafayette College), Dr. Sarah F. Small (University of New England), Dr. Rachel Ernst (University of Utah), Dr. Laura Beltran Figueroa (Rutgers University)
     </div>
     <div class="research-abstract">
