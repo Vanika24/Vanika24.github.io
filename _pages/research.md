@@ -32,31 +32,16 @@ author_profile: true
       </div>
     </div>
   </div>
-  
-  ---
-  
-## Works in Progress
 
-<div class="research-section">
-  
   <!-- First Paper -->
   <div class="research-item" id="wip-libraries-childcare">
-    <h3>Unemployment and Public Library Usage in the United States: Evidence from Before and During the COVID-19 Pandemic</h3>
+    <h3>Unemployment and Public Libraries Usage in the United States: Evidence from Before and During COVID </h3>
     <div class="research-meta">
       University of Utah — Researcher, Dept. of Economics · Salt Lake City, UT · May 2025 – Present<br>
-      Authors: Vanika Sok (Lafayette College), Dr. Sarah F. Small (University of Utah), Dr. Rachel Ernst (University of Utah)
+      Authors: Vanika Sok (Lafayette College), Dr. Sarah F. Small (University of New England), Dr. Rachel Ernst (University of Utah), Dr. Laura Beltran Figueroa (Rutgers University)
     </div>
     <div class="research-abstract">
-      <strong>Abstract.</strong> Scholars and policymakers have long argued that public libraries offer essential community
-      resources during times of economic strife. However, to our knowledge, most of this evidence has been
-      anecdotal or correlational. Using Public Library Survey, Bureau of Labor Statistics, and Business Dynamic
-      Statistics datasets, we present causal estimates of the effect of regional unemployment on local public
-      library usage. From OLS and instrumental variable models, we find that from 2008 to 2019, increased
-      rates of unemployment led to increased visits, circulation, and computer usage at local libraries. However,
-      during the COVID-19 pandemic, many of these relationships reversed, with COVID-related unemployment
-      causing a reduction in visits, but not necessarily use. Reflecting on various dimensions of community need
-      and library resources, we contextualize our results in the broader literature on public libraries as valuable
-      economic resources.
+      <strong>Abstract.</strong> Scholars and policymakers have long argued that public libraries offer essential community resources during times of economic strife. However, to our knowledge, most of this evidence has been anecdotal or correlational. Using Public Library Survey, Bureau of Labor Statistics, and Business Dynamic Statistics Datasets, we present causal estimates of the effect of regional unemployment on local public library usage. Evidence suggests higher unemployment consistently leads to increased library visits, as well as public internet computer use in both the pre-COVID and COVID-era periods. However, the relationship between unemployment and specific library use varies: programming and attendance show limited pre-COVID evidence but positive COVID-era associations, while circulation outcomes are more mixed and depend on the type of material. These findings suggest that libraries’ countercyclical role depends not only on community need, but also on the specific service channel through which patrons access library resources.
     </div>
 
     <!-- Poster embedded inline -->
@@ -73,7 +58,12 @@ author_profile: true
       Poster (embedded above). If it doesn’t load, <a href="/files/pdf/Sok_Poster_updated.pdf">open it directly</a>.
     </div>
   </div>
+  ---
+  
+## Works in Progress
 
+<div class="research-section">
+  
   <!-- Second Paper -->
   <div class="research-item" id="wip-care-gaps">
     <h3>Do Public Libraries Fill Care Gaps? Regional Analyses of Children’s Library Programming, Childcare Markets, and Parenthood</h3>
