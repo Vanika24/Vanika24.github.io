@@ -38,7 +38,7 @@ author_profile: true
     <h3>Unemployment and Public Libraries Usage in the United States: Evidence from Before and During COVID </h3>
     <div class="research-meta">
       University of Utah — Research Analyst, Dept. of Economics · Salt Lake City, UT · May 2025 – Present<br>
-      Authors: Vanika Sok (Lafayette College), Dr. Sarah F. Small (University of New England), Dr. Rachel Ernst (University of Utah), Dr. Laura Beltran Figueroa (Rutgers University)
+      Authors: Vanika Sok (Lafayette College), Dr. Sarah Small (University of New England), Dr. Laura Beltran Figueroa (Rutgers University), Dr. Rachel Ernst (University of Utah) [Under Review]
     </div>
     <div class="research-abstract">
       <strong>Abstract.</strong> Scholars and policymakers have long argued that public libraries offer essential community resources during times of economic strife. However, to our knowledge, most of this evidence has been anecdotal or correlational. Using Public Library Survey, Bureau of Labor Statistics, and Business Dynamic Statistics Datasets, we present causal estimates of the effect of regional unemployment on local public library usage. Evidence suggests higher unemployment consistently leads to increased library visits, as well as public internet computer use in both the pre-COVID and COVID-era periods. However, the relationship between unemployment and specific library use varies: programming and attendance show limited pre-COVID evidence but positive COVID-era associations, while circulation outcomes are more mixed and depend on the type of material. These findings suggest that libraries’ countercyclical role depends not only on community need, but also on the specific service channel through which patrons access library resources.
@@ -58,34 +58,27 @@ author_profile: true
       Poster (embedded above). If it doesn’t load, <a href="/files/pdf/Sok_Poster_updated.pdf">open it directly</a>.
     </div>
   </div>
+
+    <!-- Second Paper -->
+  <div class="research-item" id="wip-care-gaps">
+    <h3>The Library as Lifeline: Children’s Public Library Usage and Regional Socioeconomic Hardships Among Families</h3>
+    <div class="research-meta">
+      Authors: Vanika Sok (Lafayette College), Dr. Sarah Small (University of New England), Dr. Laura Beltran Figueroa (Rutgers University), Dr. Rachel Ernst (University of Utah) [Under Review]
+    </div>
+    <div class="research-abstract">
+      <strong>Abstract.</strong>  Public libraries are regularly relied upon for community resources beyond just books. In this paper, we ask: do regional differences in poverty and household structure relate to children’s public library usage? Using data from the United States Public Library Surveys, matched with county-level demographic and labor-market information, we construct a panel of public libraries from 2008 to 2022. We estimate library fixed-effects models to examine how local family poverty rates, household structure, and labor-market conditions are associated with children’s library use, including attendance in children’s programming, children’s programs offered, and total library visits. We find that attendance in children’s library programming is higher in counties with higher family poverty rates and larger concentrations of single-mother households, suggesting that children’s library services are most heavily used in communities facing greater economic hardship and caregiving constraint. Further, analyses show that the relationship between household structure and library use becomes especially pronounced during the COVID-era period, hinting at the heightened importance of public libraries in economically vulnerable communities during a period of employment and care-market disruption, school instability, and constrained public services.
+Keywords: children; libraries; poverty; regional economics
+
+    </div>
+  </div>
+  
   ---
   
 ## Works in Progress
 
 <div class="research-section">
   
-  <!-- Second Paper -->
-  <div class="research-item" id="wip-care-gaps">
-    <h3>Do Public Libraries Fill Care Gaps? Regional Analyses of Children’s Library Programming, Childcare Markets, and Parenthood</h3>
-    <div class="research-meta">
-      University of Utah — Dept. of Economics<br>
-      Authors: Vanika Sok, Sarah F. Small, Rachel Ernst
-    </div>
-    <div class="research-abstract">
-      <strong>Abstract.</strong> Public libraries are regularly relied upon for community resources beyond just books.
-      In this paper, we ask: do public libraries help fill care gaps? Using data from the United States Public
-      Library Surveys and the National Database on Childcare Prices, we construct a panel of public libraries
-      from 2008 to 2022 matched with corresponding demographic and childcare pricing information in their
-      respective counties. Using these data, we estimate how family demographics and care costs relate to
-      attendance in children’s programming and circulation of children’s books in public libraries. Ultimately,
-      we find that in counties with more single mothers, higher home-based childcare prices, and higher rates
-      of family-level poverty, libraries have higher attendance in young children’s programming activities and
-      greater children’s book circulation. We test the robustness of our results using several instrumental
-      variable analyses and falsification tests. Ultimately, we suggest that libraries serve as important public
-      spaces of social reproduction.
-    </div>
-  </div>
-  
+
 <!-- pollution and crime Paper -->
   <div class="research-item" id="wip-care-gaps">
     <h3>Further Evidence on Pollution, Crime, and
