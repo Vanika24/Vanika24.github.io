@@ -15,5 +15,5 @@ Outside of research, I serve as a teaching assistant for Econometrics and Microe
 
 Besides academics and research, I enjoy playing piano, backpacking, hiking, and running in nature.
 
-After UNOPS, I will head to grad school to pursue a PhD in Economics. I hope, in the future, I can bring together data-driven analysis, policy relevance, and real-world application to tackle complex economic questions and help businesses and organizations make better-informed decisions.
+I hope, in the future, I can bring together data-driven analysis, policy relevance, and real-world application to tackle complex economic questions and help businesses and organizations make better-informed decisions.
 
