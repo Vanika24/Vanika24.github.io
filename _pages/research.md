@@ -59,7 +59,7 @@ author_profile: true
     </div>
   </div>
 
-    <!-- Second Paper -->
+  <!-- Second Paper -->
   <div class="research-item" id="wip-care-gaps">
     <h3>The Library as Lifeline: Children’s Public Library Usage and Regional Socioeconomic Hardships Among Families</h3>
     <div class="research-meta">
